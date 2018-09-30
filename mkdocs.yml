@@ -1,0 +1,5 @@
+site_name: RoSource-Engine
+site_url: https://rosource-engine.github.io/
+theme:
+  name: "material"
+  logo: "assets/images/RoSource-Engine.png"
